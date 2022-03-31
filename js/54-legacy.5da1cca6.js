@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkopenchat_vue"]=self["webpackChunkopenchat_vue"]||[]).push([[54],{1054:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},c=[],l={name:"JoinView",created:function(){console.log(this.$route)}},o=l,r=t(1001),a=(0,r.Z)(o,u,c,!1,null,null,null),i=a.exports}}]);
+//# sourceMappingURL=54-legacy.5da1cca6.js.map
